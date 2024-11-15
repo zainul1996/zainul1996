@@ -1,5 +1,10 @@
 <h1>Hi 👋, I'm Zainul</h1>
 <p>SRE by profession, indie developer by passion. In my day job, I keep production systems running smoothly, but my nights and weekends are spent indulging in my guilty pleasure - building web applications. I love crafting user experiences with Next.js, Tailwind CSS, and shadcn/ui components, deploying seamlessly on Vercel.</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 <p>🌐 Discover more about me and my projects: <a href="https://zainul.me">zainul.me</a></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zainul1996) 
@@ -65,5 +70,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=zainul1996&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zainulcain) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zainulcain) 
